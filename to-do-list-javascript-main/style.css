@@ -11,6 +11,7 @@
 
 body{
     font-family: 'Lato';
+    background-image: url("pasta/Imagem.jpg");
     background-color: var(--color-dark);
     color: var(--color-white);
     display: flex;
